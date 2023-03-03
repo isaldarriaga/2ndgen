@@ -1,5 +1,5 @@
 {
-  description = "My NixOS / nix-darwin / nixos-generators systems";
+  description = "Builds the 2nd generation of a fresh NixOS minimal install";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-22.11";
